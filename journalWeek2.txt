@@ -1,0 +1,24 @@
+This week we have started learning about web design. 
+As of the first lession we have look at storyboards, userstories and wire frames.
+
+Our teacher walked us though the importance of planning a document and how once we are in the industry we will be required to 
+forfill multiple rolls basied on what is needed. This means that it is important ro be able to do all of the different rolls in
+web development. Wireframes are an important part of the web development as it allows the developers to have something to show their
+client and have that client be satified. One of the way that we were show to do this is by paper prototypes. Paper prototypes are when
+you hand draw a design, this has many benifits, including not having to creating anything meaning that if the client does not like 
+the design the time spent develping it isn't as wasted. Clients are have also been described in a way which makes me think they are 'decision challanged' meaning that they will make bad decision
+at inapporate times, for example a client may not feel like they could ask for changes if you have already stated with the website
+by with paper prototypes the client could "screw them up and throw them away" allowing them to make changes as they see fit. 
+Additionally client ask for additions and changes though out the project having the distintion that you can change the paper thing 
+but not the work I have already done helps create boundries for the client.
+
+Storyboards and usecase descriptions allow as to have examples of how we expect our users to intereact which the website which can
+also be explained to the client or used to find oversights. 
+
+So good advice we got from this lession includes.
+Never start at a start up, they will expect you to do everything and wont provide mentorship like a large company will.
+All way start at a job for more than a year or else it will rasies flags with future employers.
+If a client 'has an idea' explain to them how much it would cost to get them to drop that idea.
+
+
+Space for future Blogs
