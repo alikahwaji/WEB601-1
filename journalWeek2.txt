@@ -21,4 +21,13 @@ All way start at a job for more than a year or else it will rasies flags with fu
 If a client 'has an idea' explain to them how much it would cost to get them to drop that idea.
 
 
-Space for future Blogs
+For the second leason we were meant to create a site basied on the framework we designed in the first leasson of the week.
+I was assigned to the CSS of the website which was a struggle as one of the other members of the team added a css template which 
+somehow still overright my changes after I started making changes that accally work I manage to loses them once I started merging.
+I managed to merge a few times with some success but after I tryied to merge back to the master, my changes were removed eventho
+I though I had told It not to over right that part of the code.
+
+One of the main things that I learned was how to pull repor after I had already downloaded I once. Once selecting the correct branch
+The pull command will allow me to gain anychanges to that repor. I also learnt how to approve merges on Github as it was repuired
+to work with the website. As I ran into difficulties near the end of the lesson I might need to looked into and pratice merging 
+document so I wont make the mistake I made again.
