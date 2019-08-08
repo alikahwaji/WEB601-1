@@ -1,0 +1,45 @@
+
+
+body{
+
+background-color: #41B3A3;
+font-family: 'Times New Roman', Times, serif;
+color: #E8A87C;
+
+
+}
+
+h1, h2, h3, h4, h5{
+
+color: #E27D60;
+
+
+
+}
+
+.navbar-default {
+    background-color: #85CDCA;
+    color: #E27D60;
+    background-image: none;
+    background-repeat: no-repeat;
+   }
+   .nav{
+
+    color: #E27D60;
+
+   }
+
+   .nav-link{
+
+    color: #E27D60;
+
+   }
+
+   .active{
+
+    color: #41B3A3;
+    background-color: #C38D9E;
+
+   
+
+   }
