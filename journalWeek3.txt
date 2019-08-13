@@ -15,7 +15,7 @@ The operator || is JS verson of or which is usefull to know as I have a tendance
 Is is important to combin statements like this or you would need to create many nested statements which is one of the first things
 I learnt I wasn't meant to do when starting this corse.
 
-I don't realy understand error funtions but I will look into it as it seems important to be able to prevent errors in my code so I
+I don't realy understand arrow funtions but I will look into it as it seems important to be able to prevent errors in my code so I
 Should look into it latter.
 
 
